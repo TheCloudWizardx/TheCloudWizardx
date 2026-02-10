@@ -2,7 +2,7 @@
   Hi there 👋 I'm The Cloud Wizard!
 -->
 
-<h1 align="center">Hey there, I'm <b>TheCloudWizardx</b> 🚀</h1>
+<h1 align="center">Hey there, I'm <b>Dev Gupta</b> 🚀</h1>
 <p align="center">
   DevOps & Cloud enthusiast | Turning ideas into scalable infrastructure & automation
 </p>
@@ -39,28 +39,21 @@ Docker, AWS EC2, Linux, monitoring tools, automation, and practical DevOps workf
 
 ## 💡 Tech Skills
 
-- **Cloud & Compute:** AWS (EC2, VPC, IAM)
+- **Cloud & Compute:** AWS
 - **Containers & Orchestration:** Docker, Docker Compose
 - **CI/CD & Automation:** GitHub Actions, Jenkins
-- **Scripting & Tools:** Bash, Monitoring Scripts
-- **Operating Systems:** Ubuntu / Linux
+- **Scripting & Tools:** Bash
+- **Operating Systems:** Windows / Linux / macOS
 - **Version Control:** Git & GitHub
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheCloudWizardx&show_icons=true&theme=tokyonight)
-
----
 
 ## ✨ Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thecloudwizardx">
+  <a href="https://www.linkedin.com/in/dev-gupta26/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
   </a>
-  <a href="https://twitter.com/thecloudwizardx">
+  <a href="https://x.com/TheCloudWizardx">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter">
   </a>
 </p>
